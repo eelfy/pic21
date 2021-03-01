@@ -1,0 +1,5 @@
+Credentials cache: API:BB224509-7D20-4409-8214-20E0E5ECFA24
+        Principal: afalyse@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  1 16:35:32 2021  Mar  2 02:35:32 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
